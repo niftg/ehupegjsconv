@@ -1,0 +1,2 @@
+- スライドを見るには[`index.html`](index.html)へ
+- スライドの中身のMarkdownを直に見るには[`ralju.md`](ralju.md)へ
