@@ -1,2 +1,2 @@
-- スライドを見るには[`index.html`](index.html)へ
+- スライドを見るには[`index.html`](index.html)を（GitHub Pages で見るなら https://niftg.github.io/ehupegjsconv/ ）
 - スライドの中身のMarkdownを直に見るには[`ralju.md`](ralju.md)へ
